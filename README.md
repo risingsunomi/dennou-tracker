@@ -12,6 +12,7 @@ This will be building a tracker from the ground up using Zig to consider more mo
 
 - [ ] http server
 - [ ] torrent file management
+- [ ] model sharding torrent API
 - [ ] peer/IP management
 - [ ] tracker request management
 - [ ] JSON encoded http API for frontend
