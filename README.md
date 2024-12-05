@@ -10,14 +10,14 @@ This will be building a tracker from the ground up using Zig to consider more mo
 ## Roadmap
 **subject to change**
 
-[] http server
-[] torrent file management
-[] peer/IP management
-[] tracker request management
-[] JSON encoded http API for frontend
-[] user made torrent submission
-[] request/discussion board
-[] torrent list with seed count frontend
+- [ ] http server
+- [ ] torrent file management
+- [ ] peer/IP management
+- [ ] tracker request management
+- [ ] JSON encoded http API for frontend
+- [ ] user made torrent submission
+- [ ] request/discussion board
+- [ ] torrent list with seed count frontend
 
 ## Meaning
 From [Japanese](https://www.edrdg.org/cgi-bin/wwwjdic/wwwjdic)
