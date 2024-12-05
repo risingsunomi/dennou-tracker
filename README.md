@@ -7,6 +7,18 @@ A tracker for machine learning model torrents. Share your models without huge st
 
 This will be building a tracker from the ground up using Zig to consider more modern technologies. Looking over a project like OpenTracker, there hasn't been much of an update in over a decade. We would like to utilize the recent language Zig and other encryption design decisions.
 
+## Roadmap
+**subject to change**
+
+[] http server
+[] torrent file management
+[] peer/IP management
+[] tracker request management
+[] JSON encoded http API for frontend
+[] user made torrent submission
+[] request/discussion board
+[] torrent list with seed count frontend
+
 ## Meaning
 From [Japanese](https://www.edrdg.org/cgi-bin/wwwjdic/wwwjdic)
 
